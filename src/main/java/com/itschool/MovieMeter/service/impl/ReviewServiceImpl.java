@@ -11,9 +11,7 @@ import com.itschool.MovieMeter.model.ReviewDTO;
 import com.itschool.MovieMeter.repository.MovieRepository;
 import com.itschool.MovieMeter.repository.ReviewRepository;
 import com.itschool.MovieMeter.service.ReviewService;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Component;
-import org.springframework.web.server.ResponseStatusException;
 
 import java.time.LocalDate;
 import java.util.List;

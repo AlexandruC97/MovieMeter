@@ -8,9 +8,7 @@ import com.itschool.MovieMeter.model.ActorDTO;
 import com.itschool.MovieMeter.repository.ActorRepository;
 import com.itschool.MovieMeter.repository.MovieRepository;
 import com.itschool.MovieMeter.service.ActorService;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Component;
-import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
 import java.util.Optional;

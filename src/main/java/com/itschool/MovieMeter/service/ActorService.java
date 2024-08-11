@@ -1,6 +1,5 @@
 package com.itschool.MovieMeter.service;
 
-import com.itschool.MovieMeter.entity.Actor;
 import com.itschool.MovieMeter.model.ActorDTO;
 import org.springframework.stereotype.Service;
 

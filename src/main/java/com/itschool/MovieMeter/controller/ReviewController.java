@@ -1,6 +1,5 @@
 package com.itschool.MovieMeter.controller;
 
-import com.itschool.MovieMeter.entity.Review;
 import com.itschool.MovieMeter.model.MovieDTO;
 import com.itschool.MovieMeter.model.ReviewDTO;
 import com.itschool.MovieMeter.service.ReviewService;

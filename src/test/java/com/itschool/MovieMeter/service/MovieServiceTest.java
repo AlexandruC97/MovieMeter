@@ -1,9 +1,7 @@
 package com.itschool.MovieMeter.service;
 
-import com.itschool.MovieMeter.entity.Movie;
 import com.itschool.MovieMeter.exception.ActorNotFoundException;
 import com.itschool.MovieMeter.exception.MovieNotFoundException;
-import com.itschool.MovieMeter.model.MovieDTO;
 import com.itschool.MovieMeter.repository.ActorRepository;
 import com.itschool.MovieMeter.repository.MovieRepository;
 import com.itschool.MovieMeter.service.impl.MovieServiceImpl;
